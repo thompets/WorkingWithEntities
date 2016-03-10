@@ -1,0 +1,17 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Roboto:400,900);
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', 'OpenSans', sans-serif;
+}
+
+body {
+  font-family: 'Open Sans', Tahoma, Verdana, sans-serif;
+}
+
+.logo {
+  padding-top: 0;
+}
+
+.nav > li > a:focus, .nav > li > a:hover {
+  color: red;
+}
